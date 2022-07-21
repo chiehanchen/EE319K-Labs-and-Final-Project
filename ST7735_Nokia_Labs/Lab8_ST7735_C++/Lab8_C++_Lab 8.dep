@@ -1,0 +1,28 @@
+Dependencies for Project 'Lab8_C++', Target 'Lab 8': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x5ABC37AA)(--cpu Cortex-M4 -g --apcs=interwork -I.\RTE\_Lab_8-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 526" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\main.cpp)(0x5E9F2F76)(--cpp -c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Lab_8-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="526" -D_RTE_ -DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F920E)
+I (../inc/tm4c123gh6pm.h)(0x5388C2D9)
+I (PLL.h)(0x5E21F724)
+I (ST7735.h)(0x5ABC2D8D)
+I (TExaS.h)(0x5ABC00E3)
+I (SlidePot.h)(0x5ABC412A)
+I (print.h)(0x5E21F7BE)
+F (.\PLL.cpp)(0x5E21F2A1)(--cpp -c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Lab_8-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="526" -D_RTE_ -DTM4C123GH6PM-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F920E)
+I (PLL.h)(0x5E21F724)
+I (../inc/tm4c123gh6pm.h)(0x5388C2D9)
+F (.\ST7735.cpp)(0x5E21F2A1)(--cpp -c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Lab_8-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="526" -D_RTE_ -DTM4C123GH6PM-o .\st7735.o --omf_browse .\st7735.crf --depend .\st7735.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F920E)
+I (ST7735.h)(0x5ABC2D8D)
+I (../inc/tm4c123gh6pm.h)(0x5388C2D9)
+F (.\SlidePot.cpp)(0x5ABC412A)(--cpp -c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Lab_8-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="526" -D_RTE_ -DTM4C123GH6PM-o .\slidepot.o --omf_browse .\slidepot.crf --depend .\slidepot.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F920E)
+I (SlidePot.h)(0x5ABC412A)
+I (../inc/tm4c123gh6pm.h)(0x5388C2D9)
+F (.\TExaS.cpp)(0x5E21F2A1)(--cpp -c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Lab_8-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="526" -D_RTE_ -DTM4C123GH6PM-o .\texas.o --omf_browse .\texas.crf --depend .\texas.d)
+I (TExaS.h)(0x5ABC00E3)
+I (PLL.h)(0x5E21F724)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F920E)
+I (../inc/tm4c123gh6pm.h)(0x5388C2D9)
+F (.\print.s)(0x5E21F6FB)(--cpu Cortex-M4 -g --apcs=interwork -I.\RTE\_Lab_8-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 526" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\print.lst --xref -o .\print.o --depend .\print.d)
